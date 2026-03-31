@@ -1,45 +1,50 @@
 # Bassam Alassaad
 
-Software engineer focused on **full-stack product development** with **TypeScript, Next.js, Node.js, and modern backend tools**.
+Software Engineer with experience building and shipping production systems across **full-stack development, cloud infrastructure, and quality engineering**.
 
-I build and ship **SaaS-style web apps, internal tools, and automation projects** with a strong bias toward practical product execution.
+I work across frontend, backend, databases, testing, and deployment pipelines, with a strong focus on building reliable systems that solve real business problems.
 
-## What I work on
-- Full-stack web applications
-- TypeScript / Next.js products
-- Backend integrations and APIs
-- QA automation and developer tooling
-- Fast product prototyping with production-minded architecture
+## Focus Areas
+- Full-stack product and business systems
+- Backend services and API development
+- Cloud infrastructure and deployment workflows
+- Automated testing and quality engineering
+- Production reliability and release confidence
 
-## Featured projects
+## Featured Projects
+
+### [constructiondashboard](https://github.com/BassamAA/constructiondashboard)
+Production ERP-style operations platform for construction workflows covering inventory, accounting, employee management, and operational tracking.
+
+**Highlights:** full-stack architecture, business workflow design, production system thinking
 
 ### [launchPilot](https://github.com/BassamAA/launchPilot)
-AI marketing autopilot for indie hackers — generate a content strategy from a URL, approve it, and publish across channels.
+AI-powered marketing platform for generating content strategies and publishing workflows.
 
 **Stack:** TypeScript, Next.js, Supabase, Stripe, Tailwind, Vercel
 
 ### [qa-agent](https://github.com/BassamAA/qa-agent)
-Intelligent QA agent that runs real checks against a Next.js app, finds issues, and automates parts of the fix workflow.
+Automation-focused QA agent that runs checks against applications, identifies issues, and supports validation workflows.
 
-**Stack:** TypeScript, CLI tooling, Next.js, Supabase, testing automation
-
-### [constructiondashboard](https://github.com/BassamAA/constructiondashboard)
-Operational dashboard for managing construction materials, accounting, stock, and employee workflows.
-
-**Stack:** TypeScript, full-stack web app architecture
+**Highlights:** TypeScript, testing automation, developer tooling
 
 ### [TenantShield](https://github.com/BassamAA/TenantShield)
-Web product focused on tenant-related workflows and protection tooling.
-
-**Stack:** TypeScript, Next.js, Vercel
+Full-stack web application built around tenant-related workflows and protection tooling.
 
 ### [debtdefender](https://github.com/BassamAA/debtdefender)
-A product-style web application aimed at helping users understand and manage debt-related decisions.
+Product-style web application focused on debt-related decision support and user workflows.
 
-**Stack:** TypeScript, Vercel
+## Tech Stack
+**Languages:** TypeScript, JavaScript, Go, SQL, C#, Java  
+**Backend & Data:** REST APIs, PostgreSQL, RBAC, authentication, .NET  
+**Cloud & DevOps:** AWS, Terraform, Docker, GitHub Actions  
+**Testing & Quality:** Playwright, Cypress, Vitest, Supertest, Ginkgo, Testify
 
-## Current focus
-Right now I'm focused on sharpening my edge as a **full-stack / product engineer** by building polished, deployable software with clear business value.
+## What I bring
+I’m strongest at the intersection of:
+- product engineering
+- backend systems
+- cloud infrastructure
+- test automation and reliability
 
-## Tech I use most
-TypeScript, JavaScript, Next.js, React, Node.js, Supabase, Tailwind, C#, ASP.NET, Playwright
+That means I can build systems end-to-end while also putting the validation, testing, and deployment structure around them.
